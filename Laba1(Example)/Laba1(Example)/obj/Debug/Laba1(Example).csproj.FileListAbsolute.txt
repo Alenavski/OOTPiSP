@@ -1,0 +1,49 @@
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).csprojAssemblyReference.cache
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.Form1.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.Properties.Resources.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).csproj.GenerateResource.cache
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\bin\Debug\Laba1(Example).exe.config
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\bin\Debug\Laba1(Example).exe
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\bin\Debug\Laba1(Example).pdb
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).exe
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).pdb
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.TopForm.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.SleeveForm.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.MyForms.SkirtForm.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.MyForms.TrousersForm.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.MyForms.DressForm.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.MyForms.JumpsuitForm.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.MyForms.OutwearForm.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).csproj.CopyComplete
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Interop.DSOFile.dll
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).csproj.ResolveComReference.cache
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.ChoosePluginForm.resources
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Laba1(Example)\Laba1(Example)\bin\Debug\PluginInterface.pdb
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\bin\Debug\Laba1(Example).exe.config
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\bin\Debug\Laba1(Example).exe
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\bin\Debug\Laba1(Example).pdb
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\bin\Debug\Newtonsoft.Json.pdb
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\bin\Debug\Newtonsoft.Json.xml
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\bin\Debug\PluginInterface.pdb
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).csprojAssemblyReference.cache
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Interop.DSOFile.dll
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).csproj.ResolveComReference.cache
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.ChoosePluginForm.resources
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.Form1.resources
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.MyForms.DressForm.resources
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.MyForms.JumpsuitForm.resources
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.MyForms.OutwearForm.resources
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.MyForms.SkirtForm.resources
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.TopForm.resources
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.MyForms.TrousersForm.resources
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.Properties.Resources.resources
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1_Example_.SleeveForm.resources
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).csproj.GenerateResource.cache
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).csproj.CoreCompileInputs.cache
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).csproj.CopyComplete
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).exe
+B:\учёба. 4 сем\ООТПиСП\3\Laba1(Example)\Laba1(Example)\obj\Debug\Laba1(Example).pdb

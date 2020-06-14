@@ -1,0 +1,12 @@
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Lab2\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Lab2\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Lab2\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Lab2\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Lab2\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\home\Desktop\Labs\Второй Сем\Лабы по ООТПиСП\Lab2\PluginInterface\obj\Debug\PluginInterface.pdb
+B:\учёба. 4 сем\ООТПиСП\3\PluginInterface\bin\Debug\PluginInterface.dll
+B:\учёба. 4 сем\ООТПиСП\3\PluginInterface\bin\Debug\PluginInterface.pdb
+B:\учёба. 4 сем\ООТПиСП\3\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+B:\учёба. 4 сем\ООТПиСП\3\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+B:\учёба. 4 сем\ООТПиСП\3\PluginInterface\obj\Debug\PluginInterface.dll
+B:\учёба. 4 сем\ООТПиСП\3\PluginInterface\obj\Debug\PluginInterface.pdb

@@ -1,0 +1,12 @@
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\obj\Debug\netstandard2.0\DES_Plugin.csprojAssemblyReference.cache
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\obj\Debug\netstandard2.0\DES_Plugin.csproj.CoreCompileInputs.cache
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\obj\Debug\netstandard2.0\DES_Plugin.AssemblyInfoInputs.cache
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\obj\Debug\netstandard2.0\DES_Plugin.AssemblyInfo.cs
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\bin\Debug\netstandard2.0\DES_Plugin.deps.json
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\bin\Debug\netstandard2.0\DES_Plugin.dll
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\bin\Debug\netstandard2.0\DES_Plugin.pdb
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\bin\Debug\netstandard2.0\PluginInterface.dll
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\bin\Debug\netstandard2.0\PluginInterface.pdb
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\obj\Debug\netstandard2.0\DES_Plugin.csproj.CopyComplete
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\obj\Debug\netstandard2.0\DES_Plugin.dll
+B:\учёба. 4 сем\ООТПиСП\3\DES_Plugin\DES_Plugin\obj\Debug\netstandard2.0\DES_Plugin.pdb
